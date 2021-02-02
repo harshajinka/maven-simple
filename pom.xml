@@ -32,7 +32,7 @@
         </configuration>
       </plugin>
       
-      <plugin>  <!-- package sources.jar -->
+      <plugin>  <!-- package  sources.jar by using jenkins -->
             <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
                 <executions>
